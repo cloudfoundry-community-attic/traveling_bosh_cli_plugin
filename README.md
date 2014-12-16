@@ -1,31 +1,17 @@
-# TravelingBoshCliPlugin
+BOSH CLI plugin for easy updates of Traveling BOSH
+==================================================
 
-TODO: Write a gem description
+Installations of BOSH CLI via the [Traveling BOSH](https://github.com/cloudfoundry-community/traveling-bosh) installer will include this BOSH CLI plugin to make it easy to upgrade in future.
 
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'traveling_bosh_cli_plugin'
+```
+bosh update cli
 ```
 
-And then execute:
+Contributing
+------------
 
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install traveling_bosh_cli_plugin
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it ( https://github.com/[my-github-username]/traveling_bosh_cli_plugin/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+1.	Fork it ( https://github.com/[my-github-username]/traveling_bosh_cli_plugin/fork )
+2.	Create your feature branch (`git checkout -b my-new-feature`\)
+3.	Commit your changes (`git commit -am 'Add some feature'`\)
+4.	Push to the branch (`git push origin my-new-feature`\)
+5.	Create a new Pull Request
